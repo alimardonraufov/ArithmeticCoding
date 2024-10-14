@@ -1,0 +1,2 @@
+Podman pod is a group of containers that share the same network, storage, and process namespace. Kubernetes pods inspires it. Pods allow you to run multiple containers that need to work closely together, like a web server and a caching service, in a single isolated unit.
+Pods in Podman provide a native way to group containers without needing a full Kubernetes setup. This makes them ideal for development and small-scale applications.
