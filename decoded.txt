@@ -1,2 +1,0 @@
-Hello, Arithmetic Coding program!
-Programming language C++!
